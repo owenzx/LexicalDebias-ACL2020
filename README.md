@@ -2,7 +2,7 @@
 
 This is the official repo for the following paper
 
-* Towards Robustifying NLI Models Against Lexical Dataset Biases, Xiang Zhou and Mohit Bansal, ACL 2020 ([arxiv](https://arxiv.org/))
+* Towards Robustifying NLI Models Against Lexical Dataset Biases, Xiang Zhou and Mohit Bansal, ACL 2020 ([arxiv](https://arxiv.org/abs/2005.04732))
 
 # Dependencies
 This code require Python 3.4 and TensorFlow 1.12.0
